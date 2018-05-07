@@ -18,7 +18,9 @@ https://www.datacamp.com/community/tutorials/lstm-python-stock-market?t=1&cn=Zmx
 ## Sentiment Analysis ##
 https://www.quora.com/What-are-the-best-supervised-learning-algorithms-for-sentiment-analysis-in-text-I-want-to-do-text-analysis-to-determine-whether-a-news-item-is-positive-or-negative-for-a-given-subject  
 
+## Singular Value Decomposition ( SVD) ##
 
+## Generative Adversarial Network (GAN) ##
 
 
 ## All ##
